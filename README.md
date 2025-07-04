@@ -1,1 +1,1 @@
-# bash-scripts
+Just doing the basic stuff
